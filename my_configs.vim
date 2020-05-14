@@ -1,4 +1,5 @@
 set nu
+set rnu
 set noignorecase
 
 " 1 tab == 2 spaces
